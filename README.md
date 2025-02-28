@@ -7,6 +7,7 @@ This is the official SoundCloud Xbox app, downloaded as an APPX. It runs almost 
 I uploaded this here to make it more available for download, since you can't find the original SoundCloud APPXBundle file online.
 
 [SoundCloud Xbox App Website](https://soundcloud.com/xbox-app)
+
 [Video of the archived App](https://www.youtube.com/watch?v=W1Exge-l5jo&t=21s)
 
 **All Credits go to the original SoundCloud Xbox App developers! This GitHub repository only acts as an archive.**
