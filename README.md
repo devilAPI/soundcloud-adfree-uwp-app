@@ -1,7 +1,7 @@
 # SoundCloud UWP App (Ad-free)
 
 ## Disclaimer
-This is the official SoundCloud Xbox app, downloaded as an APPX. It runs almost perfectly on Windows. This GithHub repository only acts as an archive.
+This is the official SoundCloud Xbox app, downloaded as an APPX. It runs almost perfectly on Windows.
 
 **No code is edited, this file was directly pulled from the MS Store (It is signed by Microsoft too). It is ad-free because of a bug and can be fixed at anytime by SoundCloud (if this bug is server-side, otherwise it will stay forever <3).**
 
@@ -9,7 +9,7 @@ I uploaded this here to make it more available for download, since you can't fin
 
 [Video of the archived App](https://www.youtube.com/watch?v=W1Exge-l5jo&t=21s)
 
-**All Credits go to the original SoundCloud Xbox App developers!**
+**All Credits go to the original SoundCloud Xbox App developers! This GithHub repository only acts as an archive.**
 
 ### Compatibility
 Should work with all UWP-compatible devices. Tested on Xbox and Windows 11.
