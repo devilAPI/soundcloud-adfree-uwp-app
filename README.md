@@ -14,7 +14,7 @@ I uploaded this here to make it more available for download, since you can't fin
 ### Compatibility
 Tested on Xbox and Windows 11.
 
-Should work with all UWP-compatible devices: Windows Mobile, PC, Xbox, Surface Hub and HoloLens. 
+Should work with all UWP-compatible devices: *Windows Mobile, PC, Xbox, Surface Hub and HoloLens*. 
 
 ### Known Bugs
 Currently there were no app-breaking bugs found. Please note that Bugs wont be fixed because the App is made by SoundCloud themselves.
