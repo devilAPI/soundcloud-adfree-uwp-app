@@ -10,14 +10,14 @@ I uploaded this here to make it more available for download, since you can't fin
 
 **All Credits go to the original SoundCloud Xbox App developers! This GitHub repository only acts as an archive.**
 
-#### [Download](https://github.com/devilAPI/soundcloud-adfree-uwp-app/releases/tag/latest)
+### [Download](https://github.com/devilAPI/soundcloud-adfree-uwp-app/releases/tag/latest)
 
-### Compatibility
+## Compatibility
 Tested on Xbox and Windows 11.
 
 Should work with all UWP-compatible devices: *PC, Xbox, Surface Hub, HoloLens and Windows Phone*. 
 
-### Known Bugs
+## Known Bugs
 Currently there were no app-breaking bugs found. Please note that Bugs wont be fixed because the App is made by SoundCloud themselves.
 
 **Windows:**
