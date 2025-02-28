@@ -9,7 +9,7 @@ I uploaded this here to make it more available for download, since you can't fin
 
 [Video of the archived App](https://www.youtube.com/watch?v=W1Exge-l5jo&t=21s)
 
-**All Credits go to the original SoundCloud Xbox App developers! This GithHub repository only acts as an archive.**
+**All Credits go to the original SoundCloud Xbox App developers! This GitHub repository only acts as an archive.**
 
 ### Compatibility
 Should work with all UWP-compatible devices. Tested on Xbox and Windows 11.
