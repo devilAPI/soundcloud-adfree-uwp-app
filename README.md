@@ -3,7 +3,7 @@
 ## Disclaimer
 This is the official SoundCloud Xbox app, donwloaded as an APPX. It runs almost perfectly on Windows.
 
-**No code is edited, this file was directly pulled from the MS Store. It is ad-free because of a bug and can be fixed at anytime by SoundCloud.**
+**No code is edited, this file was directly pulled from the MS Store (It is signed by Microsoft too). It is ad-free because of a bug and can be fixed at anytime by SoundCloud.**
 
 I uploaded this here to make it more available for download, since you can't find the original SoundCloud APPXBundle file online.
 
