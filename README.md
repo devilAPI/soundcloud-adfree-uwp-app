@@ -25,4 +25,4 @@ Currently there were no app-breaking bugs found. Please note that Bugs wont be f
 **Windows:**
 - Volume Slider **sometimes** disappears on playing now screen (usually not a problem)
 - Theres no blurred cover background
-- Text can be highlighted
+- Text can be highlighted (This can also be a Feature not a Bug)
