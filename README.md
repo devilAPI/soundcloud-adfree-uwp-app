@@ -32,7 +32,7 @@ Tested on Xbox and Windows 11.
 Should work with all UWP-compatible devices: *PC, Xbox, Surface Hub, HoloLens and Windows Phone*. 
 
 ## Known Bugs
-Currently there were no app-breaking bugs found. Please note that Bugs wont be fixed because the App is made by SoundCloud themselves.
+Currently there were no app-breaking bugs found. Please note that bugs won't be fixed because the app is made by SoundCloud themselves.
 
 **Windows:**
 - Volume Slider **sometimes** disappears on playing now screen (usually not a problem)
