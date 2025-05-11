@@ -13,8 +13,9 @@ I uploaded this here to make it more available for download, since you can't fin
 **All Credits go to the original SoundCloud Xbox App developers! This GitHub repository only acts as an archive.**
 
 ## Installation
-1. Double Click
-2. Press Install
+1. Download the latest file [here](https://github.com/devilAPI/soundcloud-adfree-uwp-app/releases/latest)
+2. Open the file
+3. Press "Install"
 
 If the Installation fails, try installing the Appx via Powershell. Make sure the Path is correct.
 
@@ -23,7 +24,7 @@ Command:
 Add-AppxPackage -Path "SoundcloudLtd.SoundCloud-MusicAudio_1.1.36.0_neutral___2xc63xn306dnw.AppxBundle"
 ```
 
-### [Download](https://github.com/devilAPI/soundcloud-adfree-uwp-app/releases/latest)
+
 
 ## Compatibility
 Tested on Xbox and Windows 11.
