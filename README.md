@@ -19,7 +19,7 @@ I uploaded this here to make it more available for download, since you can't fin
 If the Installation fails, try installing the Appx via Powershell. Make sure the Path is correct.
 
 Command:
-```
+```powershell
 Add-AppxPackage -Path "SoundcloudLtd.SoundCloud-MusicAudio_1.1.36.0_neutral___2xc63xn306dnw.AppxBundle"
 ```
 
